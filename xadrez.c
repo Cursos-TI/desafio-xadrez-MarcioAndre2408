@@ -1,5 +1,14 @@
 #include <stdio.h>
 
+// Constantes para os limites de movimento
+#define MOVINTO_ BISPO 5
+#define MOVIMENTO_TORRE 5
+#define_MOVIMENTO_RAINHA 8
+
+int main () {
+    \\ Variáveis para armazenar os passos de cada peca
+    
+}
 // Desafio de Xadrez - MateCheck
 // Este código inicial serve como base para o desenvolvimento do sistema de movimentação das peças de xadrez.
 // O objetivo é utilizar estruturas de repetição e funções para determinar os limites de movimentação dentro do jogo.
